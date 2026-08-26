@@ -14,8 +14,6 @@
   </a>
 </p>
 
----
-
 ### Languages & Technologies
 
 <p align="center">
@@ -44,10 +42,4 @@
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest"/>
   <img src="https://img.shields.io/badge/PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PyQt5"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/dan1e1z">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dan1e1z&theme=nightowl&hide_border=true&area=true" width="100%" alt="Daniel's Contribution Heatmap" />
-  </a>
 </p>
