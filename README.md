@@ -1,5 +1,5 @@
 <h1 align="center">Daniel Lindsay-Shad</h1>
-<h3 align="center">Software Engineer · Systems & Applied AI / Biomedical Data</h3>
+<h3 align="center">Computer Science & Applied Medical Science</h3>
 <p align="center">Sydney, Australia · University of Sydney</p>
 
 <p align="center">
